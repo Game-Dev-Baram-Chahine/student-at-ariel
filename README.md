@@ -1,2 +1,1 @@
-# student-at-ariel
-Student@ariel
+# Student@ariel
